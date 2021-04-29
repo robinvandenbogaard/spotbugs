@@ -6,6 +6,9 @@ Currently the versioning policy of this project follows [Semantic Versioning v2.
 
 ## Unreleased - 2021-??-??
 
+### Fixed
+- Fix issue warnings for SecureRandom ([#1464](https://github.com/spotbugs/spotbugs/issues/1464))
+
 ### Changed
 * Bump Saxon-HE from 10.3 to 10.5 ([#1513](https://github.com/spotbugs/spotbugs/pull/1513))
 
